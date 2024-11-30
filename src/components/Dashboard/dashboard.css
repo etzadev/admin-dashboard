@@ -1,0 +1,33 @@
+.dashboard .filter {
+  position: absolute;
+  top: 15px;
+  right: 0;
+}
+
+.dashboard .filter .icon {
+  padding-right: 20px;
+  padding-bottom: 5px;
+  color: #aab7cf;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.dashboard .filter .icon:hover,
+.dashboard .filter .icon:focus {
+  color: #4154f1;
+}
+
+.dashboard .filter .dropdown-header,
+.dashboard .filter .dropdown-item {
+  padding: 8px 15px;
+}
+
+.dashboard .filter .dropdown-header h6 {
+  margin-bottom: 0;
+  padding: 0;
+  color: #aab7cf;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}

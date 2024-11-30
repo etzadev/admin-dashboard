@@ -1,8 +1,8 @@
-# React + Vite
+# Dashboard con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un dashboard interactivo y visualmente atractivo desarrollado con React. El objetivo es proporcionar una interfaz de usuario intuitiva para visualizar y gestionar datos.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Componentes Reutilizables**: Uso de componentes modulares y reutilizables para mantener un código limpio y fácil de mantener.
+- **Gráficos Interactivos**: Integración con librerías de gráficos como `echarts` o `react-apexcharts` para visualización de datos.
